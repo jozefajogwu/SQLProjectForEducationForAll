@@ -1,7 +1,7 @@
-# SQLProjectForEducationForAll
+# DATA ANALYST SQLProjectForEducationForAll
 
 
-Project Description
+Project Description<br>
 I am a Data Analyst working a Hypothetical NGO, named Education for All, I have been asked by the head of Fundraising to present the Data for Donor insights and Donor rates
 The Problem
 My Job role intertwines with working with the fundraising team, and we are set with the following Objectives below: • Increase the number of donors in your database • Increase the donation frequency of your donors. • Increase the value of donations in your database.
