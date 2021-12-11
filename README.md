@@ -23,6 +23,8 @@ JOIN donor_data
 on donation_data.id = donor_data.id
 ORDER BY donation_data.donation DESC
   <i></b>
+  
+  
   <p>
 From the dataset I deduced that two males Beverlie and Wallie has the largest Donation, both from Michigan and New York respectively.
     <p>
@@ -53,16 +55,27 @@ From the SQL statement we can send customized messages to each donor in their na
 From the table above,
                 <li> Males had the highest donors, though the donated yearly,</li>
                 <li> Females where the least donors though the donated daily</li>
+                ![image](https://user-images.githubusercontent.com/36554181/145657465-42754dcf-9598-433e-8c81-8fefa01b1225.png)
+
 In Relation to Job Roles:
+
                 <li> Persons in Product Management, Human Resources and Marketing were the highest Donors</li>
                 <li> Persons in Legal where the least Donors</li>
 In relation to states with highest Donors:
                 <li>California had the highest Donors, followed by Texas and New York</li>
 5 Important findings and recommendations to solve the business problem In relation to the business problem, I would proffer the following solutions
                 <li> Since we have the Tshirt of all donors, we can make customized t-shirts and send to those in states who made the highest donations such as New York, Texas and California this would further serve as an encourage to them to donate more.</li>
+                ![image](https://user-images.githubusercontent.com/36554181/145657331-ef5646d0-32c3-45ce-9cb3-9b092dac5f1a.png)
+
 <li>Persons in Product Management, Human Resources and Marketing where the highest Donors should be incentivized so as to encourage them to donate more.</li>
        <li> Messages should be sent to both Genders especially the females to encourage them to donate more since the donate daily and have a higher rate in donation</li>
                 <p>
+                  
+                  <b>Tableau visualizations of these insights</b>
+               ![image](https://user-images.githubusercontent.com/36554181/145657236-d82fe640-d724-42e3-83fa-d02d47d6cced.png)
+
+
+                  
                 <b> IN CONCLUSION</b>
                   <p>
 In order to boost the rate and frequency of donation at all fronts, those who have frequently donated, should be encourage
